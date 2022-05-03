@@ -8,7 +8,15 @@ When a user enters `node index.js` in the command line, a block of approximately
 
 ```bash
 $ node index.js
-
+###############################
+###############################
+###############################
+####                       ####
+####        #2f55a3        ####
+####                       ####
+###############################
+###############################
+###############################
 ```
 
 ## In addition to `node index.js`, it should also be able to accept the request for a:
@@ -17,8 +25,3 @@ $ node index.js
 - luminosity (e.g. light or dark)
 
 ...and then generate random colors that match those choices.
-
-```bash
-$ node index.js
-
-```
