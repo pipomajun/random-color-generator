@@ -4,7 +4,7 @@ import randomColor from 'randomcolor';
 
 // Generate random color
 
-let color = randomColor();
+const color = randomColor();
 if (process.argv.length < 2) {
   const messageBlock = `###############################
 ###############################
